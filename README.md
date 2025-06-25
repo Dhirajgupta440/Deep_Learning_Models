@@ -39,7 +39,7 @@ Each model is evaluated using:
 - NumPy, Matplotlib, Scikit-learn
 
 ## 🚀 Run the Notebooks
-Open in [Google Colab](https://colab.research.google.com/) or run locally after setting up the required libraries.
+Open in [Google Colab](https://colab.research.google.com/drive/1tvyXBI5-KnvXYq_avEsqyo5KiQFRWQN6#scrollTo=IIThvfT8OnW5) or run locally after setting up the required libraries.
 
 ---
 
