@@ -18,10 +18,10 @@ Each model is evaluated using:
 ## Results Summary
 | Model      | Accuracy(%) | Precision(%) | Recall(%) | 
 |------------|----------|-----------|--------|
-| LeNet      | 98.81   | 99.51    | 99.69| 
-| ResNet     | 98.89   | 99.71   | 99.91| 
-| Transformer      | 97.30  | 99.58   |99.59 |
-| VGG16      | 99.37  | 99.80   | 99.70 |
+| LeNet      | 98.52   | 99.68     | 99.71| 
+| ResNet     | 99.18   | 99.89   | 99.91| 
+| Transformer      | 97.92  | 99.79   |99.56 |
+| VGG16      | 99.79  | 99.80   | 99.80 |
 
 >
 
