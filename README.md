@@ -1,4 +1,4 @@
-# 📊 Comparative Study of Deep Learning Models on MNIST Dataset
+#  Comparative Study of Different Deep Learning Models on MNIST Dataset
 
 This repository presents a comparative study of four deep learning architectures — **LeNet**, **ResNet**,**Transformer**, and **VGG16** — applied to the **MNIST** handwritten digit classification task.
 
